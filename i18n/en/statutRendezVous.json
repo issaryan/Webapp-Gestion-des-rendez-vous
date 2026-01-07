@@ -1,0 +1,12 @@
+{
+  "medicaApp": {
+    "StatutRendezVous": {
+      "null": "",
+      "PLANIFIE": "PLANIFIE",
+      "CONFIRME": "CONFIRME",
+      "EFFECTUE": "EFFECTUE",
+      "ANNULE": "ANNULE",
+      "MANQUE": "MANQUE"
+    }
+  }
+}

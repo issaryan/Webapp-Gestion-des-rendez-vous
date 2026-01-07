@@ -1,0 +1,10 @@
+{
+  "medicaApp": {
+    "TypeNotification": {
+      "null": "",
+      "SMS": "SMS",
+      "EMAIL": "EMAIL",
+      "INTERNE": "INTERNE"
+    }
+  }
+}

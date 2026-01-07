@@ -1,0 +1,42 @@
+/* Styles pour la page d'accueil Medica */
+
+.display-4 {
+  font-weight: 300;
+  letter-spacing: -1px;
+}
+
+/* Amélioration des cartes du tableau de bord */
+.card {
+  transition: all 0.3s ease-in-out;
+  border-radius: 12px; /* Coins plus arrondis pour un look moderne */
+  border: none; /* On retire les bordures par défaut pour privilégier l'ombre */
+}
+
+/* Effet de "lévitation" au survol de la souris */
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.175) !important;
+  cursor: pointer;
+}
+
+/* Couleurs spécifiques pour les titres des cartes */
+.text-primary {
+  color: #007bff !important;
+}
+
+.text-success {
+  color: #28a745 !important;
+}
+
+/* Zone de bienvenue utilisateur */
+.alert-heading {
+  font-weight: 600;
+}
+
+/* Boutons d'action principaux */
+.btn-lg {
+  border-radius: 50px; /* Boutons arrondis */
+  padding-left: 30px;
+  padding-right: 30px;
+  font-weight: 500;
+}

@@ -1,0 +1,26 @@
+{
+  "medicaApp": {
+    "specialite": {
+      "home": {
+        "title": "Specialites",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Specialite",
+        "createOrEditLabel": "Create or edit a Specialite",
+        "notFound": "No Specialites found"
+      },
+      "created": "A new Specialite is created with identifier {{ param }}",
+      "updated": "A Specialite is updated with identifier {{ param }}",
+      "deleted": "A Specialite is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Specialite {{ id }}?"
+      },
+      "detail": {
+        "title": "Specialite"
+      },
+      "id": "ID",
+      "nom": "Nom",
+      "description": "Description",
+      "medecin": "Medecin"
+    }
+  }
+}
